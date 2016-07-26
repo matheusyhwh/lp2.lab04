@@ -27,7 +27,7 @@ public class Album {
 		musicas.add(musica);
 		return true;
 	}
-
+	
 	public int quantidadeFaixas() {
 		return musicas.size();
 	}
